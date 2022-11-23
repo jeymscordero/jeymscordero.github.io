@@ -118,6 +118,41 @@ body
   height:70vw;
 }
 
+#third3
+{
+	padding:10px;
+  flex:30%;
+
+}
+
+
+#third3 img
+{
+	max-width: 481px;
+	max-height:243px;
+	width: 90vw;
+  height:70vw;
+
+}
+
+#third4
+{
+	padding:10px;
+  flex:50%;
+
+}
+
+
+#third4 img
+{
+	max-width: 481px;
+	max-height:243px;
+	width: 90vw;
+  height:70vw;
+
+}
+
+
 #fourth p
 {
  	font-weight:700;
@@ -152,7 +187,7 @@ footer h1
 	text-align:center;
 }
 
-#first,#second,#third,#fourth,#fifth,#sixth
+#first,#second,#third,#third3,#third4,#fourth,#fifth,#sixth
 {
 	display:flex;
 	flex-direction: row;
@@ -164,7 +199,7 @@ footer h1
 	font-size:9vw;
 }
 
-.second1_text,.second2_text,.third1_text,.third2_text
+.second1_text,.second2_text,.third1_text,.third4_text,.third2_text
 {
 	display: flex;
 }
